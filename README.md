@@ -44,7 +44,7 @@ No JavaScript or backend logic — purely UI and layout.
 *(Add these after adding them to your repo’s `screenshots/` folder)*
 
 ![Homepage](homepage.png)  
-![Anime Row](top 10.png)
+![Anime Row](top 10 .png)
 
 ---
 
