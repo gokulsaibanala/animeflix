@@ -1,0 +1,20 @@
+<svg width="220" height="48" viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="redGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff3b3b"/>
+      <stop offset="100%" stop-color="#b30000"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="220" height="48" rx="10" fill="#0b0b0b"/>
+  <text x="110" y="32" text-anchor="middle"
+        font-size="26" font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="url(#redGlow)" filter="url(#shadow)"
+        letter-spacing="2">
+    ANIMEFLIX
+  </text>
+</svg>
